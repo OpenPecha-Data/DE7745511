@@ -1,0 +1,11 @@
+id: 5ee28462076949988c0526626a5a889d
+annotation_type: index
+revision: '00001'
+annotations:
+  61d85866ef84419abc9794915b940023:
+    parts: {}
+    span:
+    - vol: 56
+      start: 0
+      end: 7114
+    work_id: Q5221
